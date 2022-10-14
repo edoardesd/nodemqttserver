@@ -1,4 +1,5 @@
 # MQTT listener in Nodejs
+A simple yet effective node.js MQTT listener
 
 ## Features
 - MQTT connection to external broker
